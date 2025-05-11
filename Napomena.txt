@@ -1,0 +1,2 @@
+Za izradu igre korišten je Visual studio 2022.
+Također, potrebno je instalirati SFML biblioteku!
